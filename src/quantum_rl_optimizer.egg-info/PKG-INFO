@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: quantum-rl-optimizer
+Version: 1.0.0
+Summary: Reinforcement learning for quantum circuit compilation
+Requires-Python: >=3.10
+Requires-Dist: qiskit>=1.1.2
+Requires-Dist: qiskit-aer>=0.14.2
+Requires-Dist: stable-baselines3>=2.3.2
+Requires-Dist: gymnasium>=0.29.1
+Requires-Dist: torch>=2.3.1
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: scipy>=1.13.1
+Requires-Dist: matplotlib>=3.9.0
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: pyyaml>=6.0.1
+Requires-Dist: tqdm>=4.66.4
+Requires-Dist: pandas>=2.2.2
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
